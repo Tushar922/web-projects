@@ -1,4 +1,9 @@
-<h1>Html</h1>
-Here you will find my all web project using html css javascript
+<h1>Html CSS, JavaScript</h1>
 
-thank u for visiting my project
+<h2>
+Here you will find my all web project using html css javascript
+</h2>
+
+
+
+<b>Thank you for visiting project</b>
